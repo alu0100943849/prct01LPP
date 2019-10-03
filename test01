@@ -1,0 +1,12 @@
+.:
+docs
+src
+test01
+test02
+
+./docs:
+prct01.pdf
+
+./src:
+test01
+test02
